@@ -71,5 +71,3 @@ With a background in mathematics and a passion for geospatial data applications,
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
